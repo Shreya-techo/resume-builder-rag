@@ -1,0 +1,52 @@
+JOB DESCRIPTION ANALYSIS AND RESUME TAILORING RULES
+
+1. Understand the Target Role
+Read the job description and identify the job title, responsibilities, required qualifications, preferred qualifications, and technical skills.
+
+2. Extract Requirements
+Separate requirements into categories:
+- Technical skills
+- Tools and technologies
+- Education and certifications
+- Relevant projects or experience
+- Communication and other professional skills
+
+Distinguish mandatory requirements from preferred qualifications whenever the job description makes this distinction clear.
+
+3. Compare Resume and Job Requirements
+Compare the job requirements with the candidate's supplied resume and profile.
+Classify each requirement as:
+- Demonstrated: Supported by explicit evidence in the resume.
+- Partially demonstrated: Some relevant evidence exists, but it may be incomplete.
+- Not demonstrated: No supporting evidence was found.
+
+Not demonstrated does not necessarily mean the candidate lacks the skill. It means the supplied information does not establish it.
+
+4. Identify Skill Gaps
+List important requirements that are not demonstrated.
+Prioritize suggestions according to relevance to the target position.
+Do not claim that a candidate possesses a skill without supporting information.
+
+5. Tailor Resume Content
+Emphasize relevant existing projects, skills, and experiences.
+Reorder approved information to improve relevance.
+Use terminology from the job description when it accurately describes the candidate's real experience.
+Improve clarity without changing the meaning of the original content.
+
+6. Professional Summary
+Create a targeted summary based on verified education, projects, skills, and experience.
+Do not copy the job description as if its requirements were the candidate's achievements.
+
+7. Match Score
+Calculate a transparent job-match score using defined criteria and evidence from the supplied information.
+Explain the matched requirements and remaining gaps.
+Treat the score as an internal estimate, not an official ATS score or a prediction of hiring success.
+
+8. Missing Information
+If important information is unavailable, ask the candidate or mark it as unknown.
+Never fabricate skills, qualifications, employment history, certifications, or achievements.
+
+9. User Preferences
+Respect all explicit inclusion and exclusion instructions.
+An excluded detail must not be added by the generation agent or another component.
+If excluding a detail reduces demonstrated alignment with a job, explain the trade-off without overriding the user's choice.

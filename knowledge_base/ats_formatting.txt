@@ -1,0 +1,58 @@
+RESUME FORMATTING AND ATS COMPATIBILITY GUIDELINES
+
+1. General Layout
+Use a clean, professional, readable layout.
+Prefer a simple single-column design for the initial resume template.
+Use consistent spacing, alignment, margins, and typography.
+Avoid decorative elements that make the document difficult to read.
+
+2. Section Headings
+Use clear, conventional headings when applicable:
+- Professional Summary
+- Skills
+- Projects
+- Education
+- Experience
+- Certifications
+
+Include only sections relevant to the candidate.
+Do not add empty sections or invent information to fill them.
+
+3. Readability
+Use concise bullet points rather than large paragraphs where appropriate.
+Keep font sizes readable.
+Maintain consistent date formats, bullet styles, and capitalization.
+Avoid unnecessary symbols, images, complex tables, and text boxes in the initial ATS-friendly template.
+
+4. Contact Information
+Display only contact information supplied and approved by the candidate.
+Do not invent a phone number, email address, location, or professional profile URL.
+Respect any explicit exclusions.
+
+5. Content Validation
+Check spelling, grammar, sentence clarity, and consistency.
+Verify that the resume does not contain unsupported achievements or qualifications.
+Compare the final content with the original candidate information and approved changes.
+
+6. Job-Relevance Checks
+Check whether relevant, demonstrated skills and projects are represented.
+Identify important job requirements that are not demonstrated.
+Do not insert unsupported keywords merely to improve a match score.
+
+7. Exclusion Rules
+Check the candidate's excluded fields and preferences before approving the resume.
+No explicitly excluded detail may appear in the final document.
+If a required formatting check conflicts with a user preference, explain the issue and request a decision where necessary.
+
+8. Critic Agent Output
+Return a structured review containing:
+- Pass or fail status
+- Detected issues
+- Severity of each issue
+- Suggested corrections
+- Whether another revision is required
+
+9. Final Export
+Export only approved content.
+Check that text is not clipped, sections are not missing unexpectedly, and the document remains readable.
+Do not claim that the resume is guaranteed to pass every ATS system. Different systems may parse documents differently.

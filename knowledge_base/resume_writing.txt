@@ -1,0 +1,47 @@
+RESUME WRITING GUIDELINES
+
+1. Professional Summary
+A professional summary should be concise, relevant to the target role, and based on the candidate's actual qualifications.
+Mention relevant technical skills, education, projects, and experience.
+Avoid generic statements such as "I am a hardworking person" unless supported by meaningful context.
+Do not invent years of experience, achievements, certifications, or qualifications.
+
+2. Skills Section
+Group related skills into categories when appropriate.
+Examples of categories include Programming Languages, Data Analysis, Databases, Tools, and Frameworks.
+Include only skills the candidate has genuinely learned or used.
+Do not add skills merely because they appear in a job description.
+
+3. Project Descriptions
+Describe projects using the following structure:
+- Project name
+- Problem or objective
+- Tools and technologies used
+- Implementation or approach
+- Actual result or outcome, if known
+
+Use action verbs such as Developed, Implemented, Analyzed, Designed, Built, and Automated when accurate.
+Explain what the candidate personally implemented.
+Do not invent performance metrics, users, datasets, accuracy values, or business impact.
+
+4. Education
+List the qualification, institution, and dates when supplied.
+Include grades or academic achievements only when the candidate chooses to disclose them.
+Do not infer missing dates or qualifications.
+
+5. Experience and Internships
+Describe responsibilities and contributions accurately.
+Use measurable results only when the candidate provides evidence for them.
+If the candidate has no professional experience, emphasize relevant academic projects, coursework, and skills.
+
+6. Professional Language
+Use concise, clear, grammatically correct sentences.
+Avoid unnecessary first-person pronouns.
+Prefer specific descriptions over vague claims.
+Do not exaggerate the candidate's abilities.
+
+7. User Control
+The candidate decides which personal details, projects, skills, education details, and experiences appear in the resume.
+Never reinsert a detail that the candidate explicitly excluded.
+Ask for clarification when information is ambiguous.
+Preserve the meaning of the candidate's original experience.
